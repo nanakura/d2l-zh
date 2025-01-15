@@ -2,7 +2,6 @@ from setuptools import setup, find_packages
 import d2l
 
 requirements = [
-    'jupyter==1.1.1',
     'numpy==1.26.4',
     'matplotlib==3.8.0',
     'requests==2.32.3',
